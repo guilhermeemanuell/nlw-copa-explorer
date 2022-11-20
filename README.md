@@ -4,7 +4,7 @@
 
 Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
-🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/nlw-copa-explorer/){:target="_blank" rel="noopener"}
+🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/nlw-copa-explorer/)
 
 ## 🛠 Tecnologias
 
