@@ -4,11 +4,13 @@
 
 Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
-🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/nlw-copa-explorer/)
-
 Para abrir em nova aba: 
 - segure a tecla "Ctrl" e clique com botão esquerdo do mouse, ou;
 - clique com o botão de "scroll" do mouse.
+
+
+🔗 [Clique aqui para visualizar e interagir com o meu projeto.](https://guilhermeemanuell.github.io/nlw-copa-explorer/)
+
 
 ## 🛠 Tecnologias
 
